@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Effectiveness of the Dutch Brain Research Registry for Participant Recruitment in Brain Research Studies: An Analysis of Sample Representativeness and Enrollment Rates"
 author: 
-  - Ganjiyev, Javid [^1]
+  - Ganjiyev Javid[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
